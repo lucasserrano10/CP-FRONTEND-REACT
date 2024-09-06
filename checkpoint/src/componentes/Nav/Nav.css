@@ -1,4 +1,16 @@
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+html,body{
+    margin-top: -4px;
+
+}
+
+.text-shadow-itens {
+    text-shadow: 2px 2px 4px rgba(89, 15, 15, 0.2);
+}
+
 .background-nav{
-    background-color: #ff2;
-    text-align: center;
+    background-color: #0056a6f2;
 }
