@@ -1,4 +1,5 @@
 import React from "react"
+import 'bootstrap/dist/css/bootstrap.min.css'
 import Home from './componentes/Home/Home';
 import Nav from './componentes/Nav/Nav'
 import Produto from './componentes/Produtos/Produto'
