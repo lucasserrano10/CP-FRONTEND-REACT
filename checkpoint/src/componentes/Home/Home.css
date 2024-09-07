@@ -1,4 +1,5 @@
-.background-home{
-    background-color: bisque;
-    text-align: center;
+.navbar,
+.carousel{
+  margin: 0;
+  padding: 0;
 }
