@@ -14,9 +14,8 @@ function App() {
     <Nav/>
     <Home/>
     <Produto/>
-    <Contato/>
-    <Error/>
     <Sobre/>
+    <Contato/>
     <Footer/>
     </>
   )

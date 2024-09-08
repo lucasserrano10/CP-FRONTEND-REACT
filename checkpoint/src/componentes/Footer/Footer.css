@@ -1,4 +1,8 @@
-.background-footer{
-    background-color: lightgreen;
-    text-align: center;
+.div-footer{
+    background-color: black;
+    color: white;
+}
+
+.fonte{
+    font-size: 12px;
 }
